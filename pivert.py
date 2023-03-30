@@ -1,1 +1,3 @@
 print("Pivert")
+
+print("Journalist")
